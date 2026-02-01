@@ -35,8 +35,8 @@ It aims to improve practical skills in:
 - **CSS** (layout, styling, responsiveness)
 - **JavaScript** (navigation toggle & UI interactions)
 
-
 **Languages:**
+
 - HTML
 - CSS
 - JavaScript
@@ -68,6 +68,7 @@ It aims to improve practical skills in:
 This project was created as part of my **Umschulung** to practice **frontend web development** and apply theoretical knowledge in a real-world layout scenario.
 
 It is intended as:
+
 - a learning project
 - a code practice repository
 - a portfolio reference (WIP)
@@ -86,6 +87,3 @@ This clone is created **solely for educational and non-commercial purposes**.
 ## 📌 Status
 
 🟡 **Active – Work in Progress**
-
-
-
