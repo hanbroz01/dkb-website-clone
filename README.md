@@ -45,11 +45,38 @@ It aims to improve practical skills in:
 
 ## ✨ Features (so far)
 
-- Multi-level header navigation
-- Responsive burger menu with open/close toggle
-- Hover state handling for menu icons
-- Promotional sections and call-to-action buttons
-- Clean separation of structure, styles, and scripts
+This project includes a variety of **frontend features inspired by the DKB website**, focusing on **responsive layout, interactive elements, and clean design**.
+
+---
+
+### Desktop View
+
+<img width="1426" height="1108" alt="Desktop homepage with header, hero, and promo sections" src="https://github.com/user-attachments/assets/08f15b2e-1510-45c8-a60d-98d6c7ae81c5" />
+
+**Full homepage layout** – main navigation, hero section, promotional content, and call-to-action buttons displayed for desktop screens.
+
+---
+
+### Mobile View – Burger Menu
+
+<p align="center">
+  <img width="380" alt="Mobile view – burger menu closed" src="https://github.com/user-attachments/assets/655bfede-beba-4924-8894-2da3ecd1ed95" />
+  <img width="380" alt="Mobile view – burger menu opened showing navigation links" src="https://github.com/user-attachments/assets/311d2cb5-96b9-4ca5-96dc-1f818415d421" />
+  <br/>
+  **Responsive navigation** – left: burger menu visible (collapsed), right: burger menu opened with navigation options
+</p>
+
+---
+
+### Key Frontend Features Demonstrated
+
+- **Multi-level header navigation** with main and sub-menu sections  
+- **Responsive burger menu** for mobile devices, with open/close toggle  
+- **Hover state handling** for menu icons (desktop and mobile)  
+- **Promotional sections** with call-to-action buttons  
+- **Clean separation of structure, styles, and scripts** for maintainability  
+- **Responsive design** using modern CSS and flexbox/grid techniques  
+- **JavaScript interactivity** for menu toggle and hover icon changes  
 
 ---
 
